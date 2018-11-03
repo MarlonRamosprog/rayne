@@ -1,0 +1,56 @@
+.body {
+	background-color: white; 
+}
+
+.cabecalho {
+	background-color: #fd79a8;
+	color: white;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	max-width: 95%;
+	width: 500px;
+	padding-bottom: 10px;
+}
+
+a {
+	font-size: 20px;
+	color: #a29bfe;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1, h3, h4 {
+	text-align: center;
+}
+
+#msg {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px;
+	color: #d63031;
+	width: 600px;
+	max-width: 90%;
+	margin: 0 auto;
+	height: auto;
+	text-align: center;
+}
+
+.foto {
+ 	width: 300px;
+}
+
+.img-foto {
+	max-width: 100%;
+	height: auto;
+}
+
+.container2 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
